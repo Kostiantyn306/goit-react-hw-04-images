@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_KEY = '34210121-a02c7bbabd964d17c696b7478';
+const API_KEY = '33121669-f13e2ba950735c35a1fd3ade1';
 
 export async function getImages(query, page) {
   try {
